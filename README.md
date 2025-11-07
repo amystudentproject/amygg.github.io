@@ -16,9 +16,10 @@ Home health aide | Comsumer Direct WA (2024 - 202X)
 
 ## Projects  (fake projects for this assignment) 
 
-### ??? 1
-2
-3
-
-
+### 1
+desc
+### 2
+desc
+### 3
+desc
 
