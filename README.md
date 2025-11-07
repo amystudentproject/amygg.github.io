@@ -12,7 +12,7 @@ Internship | Hypothetical Company
 - Troubleshoot response in keeping systems online and systems monitoring
 
 Home health aide | Comsumer Direct WA (2024 - 202X)
-- Tasked with simple healthcare procedures in response to medical situations and basic medical aid tasks to take care of patients. 
+- Tasked with simple healthcare procedures in responding to medical situations and basic medical aid tasks to take care of patients. 
 
 ## Projects  (fake projects for this assignment) 
 
