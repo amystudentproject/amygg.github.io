@@ -8,11 +8,11 @@ Profecient in Python, Java, IT networking tools, Windows & Linux systems.
 Associates in Computer Information Systems | Whatcom Community College (2026)
 
 ## Work Experience 
-Internship | location
-- what i did in it that stands out
+Internship | Hypothetical Company
+- Troubleshoot response in keeping systems online and systems monitoring
 
 Home health aide | Comsumer Direct WA (2024 - 202X)
-- stand out qualities 
+- Tasked with simple healthcare procedures in response to medical situations and basic medical aid tasks to take care of patients. 
 
 ## Projects  (fake projects for this assignment) 
 
