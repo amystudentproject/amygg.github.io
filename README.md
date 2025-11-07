@@ -14,12 +14,13 @@ Internship | Hypothetical Company
 Home health aide | Comsumer Direct WA (2024 - 202X)
 - Tasked with simple healthcare procedures in responding to medical situations and basic medical aid tasks to take care of patients. 
 
-## Projects  (fake projects for this assignment) 
+## Projects 
 
-### 1
-desc
-### 2
-desc
-### 3
-desc
+### Python Network Traffic Report Logger 
+Basic program created for detailed filtering and logging of network traffic that isn't in a table, it is marked and logged. 
+It includes time stamps and other relevant information. 
+### Automated Routine Backup Program
+Written in python, It works through specific smaller drives and the folder they contain. 
+### Network Report, Color Tagging Organizer 
+Activates on linux whenever something set to monitored flags on the network devices connected and it assigns it to a spreadsheet with different colors and categories. 
 
