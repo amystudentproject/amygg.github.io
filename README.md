@@ -1,5 +1,6 @@
 # amygg.github.io
-# Computer Science, Software & Networking Student | Contact amyggdev@gmail.com
+# Computer Science, Software & Networking Student 
+Contact amyggdev@gmail.com
 ## Skills
 Profecient in Python, Java, IT networking tools, Windows & Linux systems. 
 
