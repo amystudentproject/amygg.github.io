@@ -21,6 +21,10 @@ Home health aide | Comsumer Direct WA (2024 - 202X)
 - Tasked with simple healthcare procedures in responding to medical situations and basic medical aid tasks to take care of patients. 
 
 ## Projects 
+## Pacific Northwest Plastic Drift Map
+
+Interactive website with oceanic map trends using complied data. It advocates for more responsible industry handling of plastic materials by showcasing & highlighting regional timeline differences in oceanic drift of plastics with accompanying visuals.Interactive website with oceanic map trends using complied data. It advocates for more responsible industry handling of plastic materials by showcasing & highlighting regional timeline differences in oceanic drift of plastics with accompanying visuals.
+
 
 ### Python Network Traffic Report Logger 
 Basic program created for detailed filtering and logging of network traffic that isn't in a table, it is marked and logged. 
