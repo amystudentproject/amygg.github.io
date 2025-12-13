@@ -1,6 +1,17 @@
 # amygg.github.io
 # Computer Science, Software & Networking Student 
 Contact amyggdev@gmail.com
+
+
+
+Add a short professional bio (2–3 sentences).
+Example: “Aspiring cybersecurity specialist with hands-on experience configuring Linux systems in coursework. Passionate about learning network security and cloud technologies.”
+
+Add location (city, state) and a link to your LinkedIn profile if you have one.
+
+Seattle, WA
+https://www.linkedin.com/in/amy-gutierrez-garduno-532057392/
+
 ## Skills
 Profecient in Python, Java, IT networking tools, Windows & Linux systems. 
 
