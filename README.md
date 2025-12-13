@@ -1,5 +1,5 @@
 # amygg.github.io
-# Computer Science, Software & Networking Student in Seattle WA.  
+# IT Networking, Computer Science Student in Seattle WA.  
 Contact amy.ggdev@gmail.com | https://www.linkedin.com/in/amy-gutierrez-garduno-532057392/
 
 Passionate in developing software solutions, problem solving, working together in projects and in further learning networking technologies.
