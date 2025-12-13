@@ -1,25 +1,20 @@
 # amygg.github.io
-# Computer Science, Software & Networking Student 
-Contact amyggdev@gmail.com
+# Computer Science, Software & Networking Student in Seattle WA.  
+Contact amy.ggdev@gmail.com | https://www.linkedin.com/in/amy-gutierrez-garduno-532057392/
 
+Passionate in developing software solutions, problem solving, working together in projects and in further learning networking technologies.
+Initial education in IT Networking degree path, redirected focus to completing a Bachelors in computer science, studying for supporting networking certifications.
 
-
-Add a short professional bio (2–3 sentences).
-Example: “Aspiring cybersecurity specialist with hands-on experience configuring Linux systems in coursework. Passionate about learning network security and cloud technologies.”
-
-Add location (city, state) and a link to your LinkedIn profile if you have one.
-
-Residing in Seattle, WA
-https://www.linkedin.com/in/amy-gutierrez-garduno-532057392/
 
 ## Skills
 Profecient in Python, Java, IT networking tools, Windows & Linux systems. 
+Cross team communication experience, Billingual (EN/ES)
 
 ## Education
 Associates in Computer Information Systems | Whatcom Community College (2026)
 
 ## Work Experience 
-Internship | Hypothetical Company
+Internship | Help Desk I
 - Troubleshoot response in keeping systems online and systems monitoring
 
 Home health aide | Comsumer Direct WA (2024 - 202X)
