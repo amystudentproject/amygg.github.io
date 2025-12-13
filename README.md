@@ -9,7 +9,7 @@ Example: “Aspiring cybersecurity specialist with hands-on experience configuri
 
 Add location (city, state) and a link to your LinkedIn profile if you have one.
 
-Seattle, WA
+Residing in Seattle, WA
 https://www.linkedin.com/in/amy-gutierrez-garduno-532057392/
 
 ## Skills
