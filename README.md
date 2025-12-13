@@ -25,6 +25,7 @@ Home health aide | Comsumer Direct WA (2024 - 202X)
 
 Interactive website with oceanic map trends using complied data. It advocates for more responsible industry handling of plastic materials by showcasing & highlighting regional timeline differences in oceanic drift of plastics with accompanying visuals.Interactive website with oceanic map trends using complied data. It advocates for more responsible industry handling of plastic materials by showcasing & highlighting regional timeline differences in oceanic drift of plastics with accompanying visuals.
 
+written in Jscript 
 
 ### Python Network Traffic Report Logger 
 Basic program created for detailed filtering and logging of network traffic that isn't in a table, it is marked and logged. 
@@ -33,4 +34,10 @@ It includes time stamps and other relevant information.
 Written in python, It works through specific smaller drives and the folder they contain. 
 ### Network Report, Color Tagging Organizer 
 Activates on linux whenever something set to monitored flags on the network devices connected and it assigns it to a spreadsheet with different colors and categories. 
+
+## REPOSITORY 
+
+"README.md file" technical write up contents. 
+
+
 
